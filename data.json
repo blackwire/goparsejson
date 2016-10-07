@@ -1,0 +1,11 @@
+{
+    "string": "empty",
+    "array": {
+        "int": 1,
+        "string": "empty",
+        "boolean": true,
+        "float": 1.5
+    },
+    "int": 1,
+    "boolean": true
+}
